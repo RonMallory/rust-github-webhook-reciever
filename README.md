@@ -1,2 +1,4 @@
 # rust-github-webhook-reciever
-Rust based GitHub webhook receiver
+
+Rust based github webhook reciever.
+
