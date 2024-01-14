@@ -1,0 +1,7 @@
+{
+    "action": "push",
+    "repository": {
+        "name": "test-repo",
+        "url": "https://github.com/user/test-repo"
+    }
+}
